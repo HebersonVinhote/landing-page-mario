@@ -1,0 +1,28 @@
+*{
+    font-family: sans-serif;
+    margin: 0 auto;
+    width: 100%;
+    box-sizing: border-box;
+
+}
+
+.topo {
+    background-color: blue;
+    position: absolute;
+    align-content: space-between;
+
+}
+
+#titulo {
+    color: red;
+    display: flex;
+    margin-top: 10%;
+    margin-left: 10%;
+
+}
+
+#mario {
+    width: 100vh;
+    position: relative;
+    margin-top: 10%;
+}
